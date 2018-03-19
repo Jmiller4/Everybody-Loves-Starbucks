@@ -1,12 +1,12 @@
-Cool Lime Starbucks Refreshers"! Beverage
-Valencia Orange Starbucks Refreshers"! Beverage
-Very Berry Hibiscus Starbucks Refreshers"! Beverage
-Evolution Fresh"! Cold-Pressed Apple Berry Juice
-Evolution Fresh"! Defense Up
-Evolution Fresh"! Orange Juice
-Evolution Fresh"! Organic Ginger Limeade
-Evolution Fresh"! Super Green
-Evolution Fresh"! Sweet Greens and Lemon
+Cool Lime Starbucks Refreshers! Beverage
+Valencia Orange Starbucks Refreshers! Beverage
+Very Berry Hibiscus Starbucks Refreshers! Beverage
+Evolution Fresh! Cold-Pressed Apple Berry Juice
+Evolution Fresh! Defense Up
+Evolution Fresh! Orange Juice
+Evolution Fresh! Organic Ginger Limeade
+Evolution Fresh! Super Green
+Evolution Fresh! Sweet Greens and Lemon
 Shaken Sweet Tea
 Shaken Sweet Tea Lemonade
 Tazo® Bottled Berry Blossom White
@@ -27,8 +27,8 @@ Teavana® Shaken Iced Black Tea Lemonade
 Teavana® Shaken Iced Blackberry Mojito Tea Lemonade
 Teavana® Shaken Iced Green Tea
 Teavana® Shaken Iced Green Tea Lemonade
-Teavana® Shaken Iced Passion Tango"! Tea
-Teavana® Shaken Iced Passion Tango"! Tea Lemonade
+Teavana® Shaken Iced Passion Tango! Tea
+Teavana® Shaken Iced Passion Tango! Tea Lemonade
 Teavana® Shaken Iced Peach Green Tea
 Teavana® Shaken Iced Peach Green Tea Lemonade
 Iced Espresso Classics - Caffe Mocha
@@ -44,9 +44,9 @@ Starbucks Doubleshot® Energy Vanilla Light Drink
 Starbucks Doubleshot® Energy White Chocolate Drink
 Starbucks Doubleshot® Espresso Drink
 Starbucks Doubleshot® Light Espresso Drink
-Starbucks Refreshers"! Blueberry Acai
-Starbucks Refreshers"! Raspberry Pomegranate
-Starbucks Refreshers"! Strawberry Lemonade
+Starbucks Refreshers! Blueberry Acai
+Starbucks Refreshers! Raspberry Pomegranate
+Starbucks Refreshers! Strawberry Lemonade
 Starbucks® Bottled Caramel Frappuccino® Coffee Drink
 Starbucks® Bottled Coffee Frappuccino® Coffee Drink
 Starbucks® Bottled Dark Chocolate Mocha Frappuccino® Coffee Drink
@@ -151,9 +151,9 @@ Steamed Apple Juice
 Chocolate Smoothie
 Orange Mango Smoothie
 Strawberry Smoothie
-Golden Ginger Ale Fizzio"! Handcrafted Soda
-Lemon Ale Fizzio"! Handcrafted Soda
-Spiced Root Beer Fizzio"! Handcrafted Soda
+Golden Ginger Ale Fizzio! Handcrafted Soda
+Lemon Ale Fizzio! Handcrafted Soda
+Spiced Root Beer Fizzio! Handcrafted Soda
 Classic Chai Tea Latte
 Iced Classic Chai Tea Latte
 Iced Teavana® Green Tea Latte
@@ -169,7 +169,7 @@ Teavana® Jade Citrus Mint Brewed Tea
 Teavana® Mint Majesty Brewed Tea
 Teavana® Oprah Chai Brewed Tea
 Teavana® Oprah Chai Tea Latte
-Teavana® Passion Tango"! Brewed Tea
+Teavana® Passion Tango! Brewed Tea
 Teavana® Peach Tranquility Brewed Tea
 Teavana® Pineapple Kona Pop Brewed Tea
 Teavana® Royal English Breakfast Brewed Tea
@@ -179,8 +179,8 @@ Teavana® Shaken Iced Black Tea Lemonade
 Teavana® Shaken Iced Blackberry Mojito Tea Lemonade
 Teavana® Shaken Iced Green Tea
 Teavana® Shaken Iced Green Tea Lemonade
-Teavana® Shaken Iced Passion Tango"! Tea
-Teavana® Shaken Iced Passion Tango"! Tea Lemonade
+Teavana® Shaken Iced Passion Tango! Tea
+Teavana® Shaken Iced Passion Tango! Tea Lemonade
 Teavana® Shaken Iced Peach Green Tea
 Teavana® Shaken Iced Peach Green Tea Lemonade
 Teavana® Youthberry Brewed Tea
